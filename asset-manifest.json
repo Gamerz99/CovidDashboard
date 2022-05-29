@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gamerz99/CovidDashboard/static/css/main.fac0b5db.css",
+    "main.js": "/Gamerz99/CovidDashboard/static/js/main.09ecee06.js",
+    "static/js/787.545aecf5.chunk.js": "/Gamerz99/CovidDashboard/static/js/787.545aecf5.chunk.js",
+    "index.html": "/Gamerz99/CovidDashboard/index.html",
+    "main.fac0b5db.css.map": "/Gamerz99/CovidDashboard/static/css/main.fac0b5db.css.map",
+    "main.09ecee06.js.map": "/Gamerz99/CovidDashboard/static/js/main.09ecee06.js.map",
+    "787.545aecf5.chunk.js.map": "/Gamerz99/CovidDashboard/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fac0b5db.css",
+    "static/js/main.09ecee06.js"
+  ]
+}
