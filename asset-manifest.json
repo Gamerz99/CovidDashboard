@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/covid-dashboard/static/css/main.fac0b5db.css",
-    "main.js": "/covid-dashboard/static/js/main.42c2d676.js",
-    "static/js/787.545aecf5.chunk.js": "/covid-dashboard/static/js/787.545aecf5.chunk.js",
-    "index.html": "/covid-dashboard/index.html",
-    "main.fac0b5db.css.map": "/covid-dashboard/static/css/main.fac0b5db.css.map",
-    "main.42c2d676.js.map": "/covid-dashboard/static/js/main.42c2d676.js.map",
-    "787.545aecf5.chunk.js.map": "/covid-dashboard/static/js/787.545aecf5.chunk.js.map"
+    "main.css": "/CovidDashboard/static/css/main.fac0b5db.css",
+    "main.js": "/CovidDashboard/static/js/main.5ac76c97.js",
+    "static/js/787.545aecf5.chunk.js": "/CovidDashboard/static/js/787.545aecf5.chunk.js",
+    "index.html": "/CovidDashboard/index.html",
+    "main.fac0b5db.css.map": "/CovidDashboard/static/css/main.fac0b5db.css.map",
+    "main.5ac76c97.js.map": "/CovidDashboard/static/js/main.5ac76c97.js.map",
+    "787.545aecf5.chunk.js.map": "/CovidDashboard/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fac0b5db.css",
-    "static/js/main.42c2d676.js"
+    "static/js/main.5ac76c97.js"
   ]
 }
